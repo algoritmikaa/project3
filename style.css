@@ -100,7 +100,8 @@ footer {
     border-top: 5px solid #ff9800;
 }
 
-div {
+/* Стили для разделов (section), карточек (article) и вспомогательных контейнеров (div) */
+section, article, div {
     background-color: white;
     margin: 20px;
     padding: 25px;
